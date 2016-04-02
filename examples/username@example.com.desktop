@@ -1,7 +1,7 @@
 [Desktop Entry]
 Exec=yakuake-session -h -e ssh -- username@example.com
 GenericName=SSH to username@example.com
-Icon=utilities-terminal
+Icon=yakuake
 MimeType=
 Name=username@example.com
 Path=
